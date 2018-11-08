@@ -211,7 +211,7 @@ Unisys公司首席信息官Upinder Phanda表示：“我们有一种规避风险
 Phanda表示，“IT正在改变其在公司中的角色，从仅仅是一个系统提供商到在IT，业务和供应商/实施合作伙伴之间进行协调。” 与此同时，数十年来，IT团队一直在实施敏捷框架，例如Scrum。 这种领导力和专业知识的结合使它们成为实现敏捷文化的完美合作伙伴。
 然而，伙伴关系在清晰沟通方面蓬勃发展。 不幸的是，高层管理人员通常不会像人力资源经理和IT主管一样思考问题或交流想法。
 
-> “Solving a client’s issue may require many complex work streams, so we set up a sprint...It’s a way of getting people to be collaborative, take accountability and feel empowered.”
+> “解决客户的问题可能需要许多复杂的工作流程，因此我们建立了一个冲刺......这是一种让人们进行协作，承担责任并感受到赋能的方式。”
 > TAMARA INGRAM
 > CHIEF EXECUTIVE OFFICER,
 > J. WALTER THOMPSON COMPANY
