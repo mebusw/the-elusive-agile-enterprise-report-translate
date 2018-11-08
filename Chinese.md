@@ -45,6 +45,14 @@ Based on our research findings and conversations with top executives, we discove
 Agility also delivers bottom-line benefits, as 17% of leading companies (see Defining Leaders and Laggards, pg. 5) have experienced revenue growth of more than 20% over the past year, compared with 10% of laggards. Beyond revenue figures, leaders differ from laggards in that they’ve successfully translated agility from a software development methodology into a highly valuable management strategy across their business domain.
 This report illustrates the increasing importance of agility as an organizational approach and explores how organizations can achieve end-to- end agility in a highly competitive world.
 
+## INTRODUCTION 介绍
+许多组织正在经历重大变革，以应对不断变化的客户需求、波动的市场需求、竞争压力和颠覆性技术。但是，根据《福布斯观察》的研究显示，不到一半（47%）的高管认为他们可以从这些转变中获得可持续的价值。此外，只有一半的高管（51%）认为他们可以创造短期转型的胜利。
+复杂之处在于，在任何一个特定时刻，三分之一的大公司都经历着股东总价值的严重恶化，而从这种恶化中成功复苏是罕见的，而不是常态：根据麻省理工学院斯隆管理评论网站上发布的调查结果，从在恶化之后的短期和长期来看，只有四分之一的公司在其行业能够表现出色。
+部分问题是，许多组织在僵硬的垂直组织结构-工业时代的遗迹-下继续运作。当今的现代化、数字化、网络化的企业必须承认传统管理固有的低效率，同时认识到迫切需要更大的敏捷性，一种由快速迭代周期定义的组织方法，并对从事发现和交付客户价值的跨职能团队授权。
+为了更好地理解这种方法及其优点，《福布斯观察》与Scrum联盟合作，调查了来自全球和各个行业的1000多名C级主管。问题探究了管理人员对敏捷的重要性的总体看法，敏捷性如何与转型工作的成功相关，以及公司实现这些框架的进展情况。我们还深入采访了来自一些顶级组织的主要C级管理人员，包括通用电气医疗保健、诺基亚、J.Walter Thompson公司、丰田互联、Unisys和WIKISPEED团队。
+根据我们的研究结果和与高层管理人员的对话，我们发现敏捷框架，特别是77%的领先企业目前都在利用的Scrum，可以帮助在客户变化无常、快速变化市场趋势下有助于刺激增长并支持数字化转型。事实上，对于成功实现更大敏捷性的企业来说，回报是丰厚的，包括：更快的上市时间（60%）、更快的创新（59%）、非财务结果的改进如客户体验和产品质量（58%）以及员工士气的改进（57%）。这些好处正在从亚太到中东的全球范围内感受到。敏捷性也带来了基本的收益，如17%的领先公司（参见定义引领者和落后者，第5页）在过去一年中经历了超过20%的收入增长，而落后者只有10%。除了收入数字之外，引领者与落后者的不同之处在于，他们已经成功地将敏捷性从软件开发方法转化为整个业务领域的高度有价值的管理策略。
+这份报告阐明了敏捷作为组织方法的日益重要的意义，并探讨了组织如何在高度竞争的世界中实现端到端敏捷。
+
 ### DEFINING LEADERS AND LAGGARDS
 When looking at the adoption, understanding and implementation of Agile approaches, responses varied significantly among surveyed executives. To highlight these key differences in behavior, our report divides respondents into two main categories: leaders and laggards. These segments are defined as follows:
   LEADERS
