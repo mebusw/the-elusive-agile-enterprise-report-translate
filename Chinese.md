@@ -45,6 +45,14 @@ Based on our research findings and conversations with top executives, we discove
 Agility also delivers bottom-line benefits, as 17% of leading companies (see Defining Leaders and Laggards, pg. 5) have experienced revenue growth of more than 20% over the past year, compared with 10% of laggards. Beyond revenue figures, leaders differ from laggards in that they’ve successfully translated agility from a software development methodology into a highly valuable management strategy across their business domain.
 This report illustrates the increasing importance of agility as an organizational approach and explores how organizations can achieve end-to- end agility in a highly competitive world.
 
+## INTRODUCTION 介绍
+许多组织正在经历重大变革，以应对不断变化的客户需求、波动的市场需求、竞争压力和颠覆性技术。但是，根据《福布斯观察》的研究显示，不到一半（47%）的高管认为他们可以从这些转变中获得可持续的价值。此外，只有一半的高管（51%）认为他们可以创造短期转型的胜利。
+复杂之处在于，在任何一个特定时刻，三分之一的大公司都经历着股东总价值的严重恶化，而从这种恶化中成功复苏是罕见的，而不是常态：根据麻省理工学院斯隆管理评论网站上发布的调查结果，从在恶化之后的短期和长期来看，只有四分之一的公司在其行业能够表现出色。
+部分问题是，许多组织在僵硬的垂直组织结构-工业时代的遗迹-下继续运作。当今的现代化、数字化、网络化的企业必须承认传统管理固有的低效率，同时认识到迫切需要更大的敏捷性，一种由快速迭代周期定义的组织方法，并对从事发现和交付客户价值的跨职能团队授权。
+为了更好地理解这种方法及其优点，《福布斯观察》与Scrum联盟合作，调查了来自全球和各个行业的1000多名C级主管。问题探究了管理人员对敏捷的重要性的总体看法，敏捷性如何与转型工作的成功相关，以及公司实现这些框架的进展情况。我们还深入采访了来自一些顶级组织的主要C级管理人员，包括通用电气医疗保健、诺基亚、J.Walter Thompson公司、丰田互联、Unisys和WIKISPEED团队。
+根据我们的研究结果和与高层管理人员的对话，我们发现敏捷框架，特别是77%的领先企业目前都在利用的Scrum，可以帮助在客户变化无常、快速变化市场趋势下有助于刺激增长并支持数字化转型。事实上，对于成功实现更大敏捷性的企业来说，回报是丰厚的，包括：更快的上市时间（60%）、更快的创新（59%）、非财务结果的改进如客户体验和产品质量（58%）以及员工士气的改进（57%）。这些好处正在从亚太到中东的全球范围内感受到。敏捷性也带来了基本的收益，如17%的领先公司（参见定义引领者和落后者，第5页）在过去一年中经历了超过20%的收入增长，而落后者只有10%。除了收入数字之外，引领者与落后者的不同之处在于，他们已经成功地将敏捷性从软件开发方法转化为整个业务领域的高度有价值的管理策略。
+这份报告阐明了敏捷作为组织方法的日益重要的意义，并探讨了组织如何在高度竞争的世界中实现端到端敏捷。
+
 ### DEFINING LEADERS AND LAGGARDS
 When looking at the adoption, understanding and implementation of Agile approaches, responses varied significantly among surveyed executives. To highlight these key differences in behavior, our report divides respondents into two main categories: leaders and laggards. These segments are defined as follows:
   LEADERS
@@ -65,7 +73,7 @@ Agile
 An organizational approach and mindset defined by the values and principles of the Agile Manifesto, often practiced through a framework like Scrum.
 
 
-## KEY FINDINGS
+## KEY FINDINGS 关键的发现
 Organizations are increasingly recognizing the value of organizational agility: 81% of all survey
 respondents consider it to be the most important characteristic of a successful organization.
 For those that succeed at achieving greater agility, the rewards are plentiful: Faster time to market (60%), faster innovation (59%) and improved non-financial results (58%).
@@ -80,6 +88,26 @@ Culture is key to supporting an Agile enterprise: 65% of survey respondents agre
 Many organizations eliminate hierarchy in the hopes of increasing agility: 44% of survey respondents have introduced a flatter structure to become more Agile. But that may be premature; Agile is about creating the right dynamics for teams to iterate quickly, not simply moving boxes around on organizational charts.
 As agility gains traction around the world, regional differences begin to arise. Asia-Pacific executives say being Agile is very important, but they don’t assess themselves as being particularly good at it. North American executives do, but they don’t necessarily say it’s more important. Latin American executives, on the other hand, characterize their organizations in general as the most disruptive. Despite these nuances, the survey reveals a global consensus among executives on the need to become more Agile.
 
+## KEY FINDINGS 关键的发现
+组织越来越认识到组织敏捷的价值：81%的受访者认为组织敏捷是成功组织的最重要的特征。
+
+对于那些成功实现更大灵活性的人来说，回报是丰厚的：更快的上市时间（60%）、更快的创新（59%）和非财务结果的改进（58%）。
+
+许多组织正在采取一种特别的方法来导入敏捷：21%的受访者在必要时或在必要的地方使用敏捷，23%在特定功能中使用它。然而，需要整个企业范围内和一致采用敏捷以实现真正的结果。
+
+企业最高管理层在推动整个企业采用敏捷性方面起着不可或缺的作用：35%的受访者认为CEO要对组织敏捷性负责，87%的人认为CEO是组织敏捷性的最大支持者。
+
+并非每个人都热衷于采用敏捷：长期雇员（29%）是组织敏捷的最大阻碍者，并且可能阻碍敏捷的广泛采用。这是高级管理人员解决员工焦虑和转变心态的一个绝好机会。
+
+随着企业最高管理层的角色变化，组织必须从所有业务职能部门中找到合适的人才组合，以推动变革并与利益相关者协作：83%的领导人认为正确的人才和/或技能是成功变革的关键。
+
+教育和启蒙对于将敏捷性从一个框架转换为管理策略至关重要：54%的受过培训和/或通过利用员工来领导敏捷转型，58%的人说他们需要更多地了解敏捷。
+
+文化是支持敏捷企业的关键：65%的受访者同意他们的文化是组织的资产，66%的人认为敏捷是公司DNA的重要部分。
+
+许多组织为了增加敏捷性而取消了等级制度：44%的调查受访者引入了更扁平的结构来变得更敏捷。但这可能还为时过早；敏捷就是为团队快速迭代创建正能量，而不仅仅是在组织结构图上变动。
+
+随着敏捷在全球范围内得到推广，区域差异开始出现。亚太高管说敏捷是非常重要的，但他们并不认为自己擅长于它。北美的高管们只管做，但他们并不一定说敏捷多么重要。另一方面，拉丁美洲高管，通常将他们的组织归为最具有分裂性。尽管有这些细微差别，这项调查揭示了全球高管们一致认为需要变得更加敏捷。
 
 ## THE STATE OF AGILITY 敏捷性的现状？ 敏捷力？
 A vast majority of organizations recognize the importance of agility and its rewards. Yet agility can be elusive: Many are struggling to translate this nearly 20-year-old software development strategy into a broader management concept. To successfully transform, today’s organizations need to embrace agility from strategy to execution, and enterprise-wide.
@@ -158,6 +186,30 @@ Yet agility belongs in the enterprise as a powerful management strategy—not is
 “When companies are Agile from stem to stern, they’re able to make decisions of any size in less than an hour” for greater “profit, revenues, project success, promotion and market-share growth,” says Joe Justice, founder and CEO of Team WIKISPEED, a green, automotive-prototyping company that relies on Scrum for everything from human resource decisions to product design for modular cars.
 So how can organizations extend agility from software to marketing, product design, manufacturing and other business units? It’s a question many are asking, especially since scaling Agile from a single department to an entire organization isn’t easy. While the vast majority of Forbes Insights/Scrum Alliance respondents still rely on a mix of traditional and Agile approaches, leaders are doing a much better—and faster—job of embracing Agile. Approaches currently employed by leaders include a mix of traditional and Agile (64%), mostly Agile (33%) and mostly traditional (3%).
 Another impediment to enterprise-wide adoption of agility? Many organizations are adopting an ad-hoc approach to Agile, embracing it on an as-needed basis rather than applying it on regular, consistent terms. Overall, 21% of respondents use Agile when/where needed, and 23% use it within specific functions. Yet only 9% of respondents apply Agile enterprise-wide. Clearly, consistent and widespread application of Agile principles is critical to business success, as leaders are twice as likely to be Agile enterprise-wide as laggards.
+
+## THE STATE OF AGILITY 敏捷性的现状？ 敏捷力？
+绝大多数的组织都意识到敏捷的重要性及其回报。然而，敏捷性可能是难以捉摸的：许多人正在努力将这种近20年的软件开发策略转化为更广泛的管理概念。为了成功地转型，今天的组织需要拥抱整个企业范围内从战略到执行的敏捷性。
+
+现在是时候该这么做了。我们的调查结果显示，三分之二（66%）的组织在最近一个财政年度的收入增长不到10%。这样的趋势使得对新出现的趋势要做出快速反应、设计更好的产品、增强团队士气、以及满足极高的客户期望的能力比以往任何时候都更加关键。
+
+组织已经认识到企业敏捷性的价值。令人惊讶的是81%的调查受访者认为这是成功组织最重要的特征。82%的受访者认为敏捷对组织的成功和竞争力非常重要。在受访者中最流行的敏捷方法中，有超过四分之三（77%）的领跑者引用Scrum。
+
+“从长远来看，敏捷是保持竞争力的先决条件；这是唯一的选择，”芬兰跨国电信和消费电子产品公司诺基亚的首席运营官Joerg Erlemeier说。“敏捷使我们能更快和更好地响应客户的要求。”诺基亚的敏捷计划包括重新设计业务流程、创建以客户为中心的供应链以及引入更小、更灵活的团队。
+
+组织敏捷性的流行是有充分理由的。对于那些成功实现更大敏捷性的人来说，领跑者和落后者看到了许多好处，包括更快的上市时间、更快的创新和非财务结果的改进，仅举几个例子。
+丰田汽车公司是一家提高敏捷性获得了好处的公司。通过“小批量”工作并创建像丰田生产系统这样的连续流程流，丰田互联敏捷（丰田全球技术战略业务部门）的首席执行官奈杰尔·瑟洛（Nigel Thurlow）说，一旦需要完全相同的任务，丰田的肯塔基制造厂可以在六天-七个星期的一部分-升级系统来支持工厂的机械。“当你采用短冲刺和小批量工作时，你能看到更快的交付价值，”他说。但更重要的是，您能够更快地发现错误，改变主意，并根据新出现的需求做出决策。
+
+在当今的商业环境中，这种灵活性是必不可少的，因为技术、创新和发展的步伐加快要求组织比以前更快地交付结果。但是敏捷可让你比竞争对手更快地把产品推向市场。敏捷开始于对传统软件开发失败的反应。面对庞大的预算和延迟发布，组织不得转向敏捷来提高他们创建新产品和推出更新发布的速度。
+
+事实上，使用Scrum框架可以加快产品开发速度。但是，如果广告部门不能将新产品进行兜售，或者如果营销团队不能及时开展活动，产品就没有什么价值。即使在今天，调查受访者说他们的组织最敏捷的领域之一是技术（76%）。
+
+然而，如果要将组织推向工作场所和文化创新的未来，敏捷就属于企业一种强有力的管理策略，而不是孤立存在一个部门内。事实上，企业范围内的敏捷性是当今区分领跑者与落后者的核心所在。
+
+绿色汽车原型公司Team WIKISPEED的创始人兼首席执行官乔·贾斯汀（Joe Justice）说：“当公司从头到尾都敏捷时，他们可以在不到一个小时的时间内做出任何大小的决策，从而获得更大的“利润、收入、项目成功、促销和市场份额增长”。该公司依赖于Scrum来操作每一件事情，如从人力资源决策到模块化汽车的产品设计。
+
+那么，组织如何将敏捷性从软件扩展到营销、产品设计、制造和其他业务部门？很多人都在问这个问题，特别是因为将敏捷从单个部门扩展到整个组织并不容易。尽管《福布斯观察》/Scrum联盟的大多数受访者仍然依赖于传统和敏捷方法的混合型，但领跑者们在拥抱敏捷方面做得更好、更快。领跑者们目前采用的方法包括传统和敏捷的混合型（64%），大多数是敏捷（33%）和大多数是传统的（3%）。
+
+企业广泛采用敏捷的另一个障碍？许多组织正在对敏捷采取一种特别的方法，在需要的基础上接受它，而不是在常规的、一致的条件下应用它。总的来说，21%的受访者在需要的时候和地方使用敏捷，23%的人在特定的部门中使用敏捷。然而，只有9%的受访者在整个企业内采用敏捷。显然，一致和广泛地应用敏捷原则对于业务成功至关重要，因为想要在整个敏捷企业范围敏捷的领跑者是落后者的两倍。
 
 ### Figure 4. Leaders vs. laggards on depth of current organizational agility
  26%
