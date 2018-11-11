@@ -410,17 +410,17 @@ Scrum联盟团队参与了这项计划：
 
 有关敏捷思想领导力的更多信息，请登录 <www.scrumalliance.org/forbes>
 
-## 关于Scrum联盟
+## 关于美国Scrum联盟
 
-Scrum Alliance是一个为Scrum和敏捷实践者提供教育、资源和支持的组织。深入一步，你会发现Scrum联盟是观念和变革运动的一部分。Scrum联盟提供主张、社区参与、研究、人际网络和关注组织变革，这些变革正在改变着全球的工作方式。Scrum是一个非盈利组织，由全球超过50万认证者组成，驱使我们的不是商业，也不是什么财务盈亏；我们的动力正是来自于全球社区的成员，以及寻求实现真正工作与生活平衡的每个人。
+[Scrum Alliance](http://www.scrumalliance.org)是一个为Scrum和敏捷实践者提供教育、资源和支持的组织。深入一步，你会发现Scrum联盟是观念和变革运动的一部分。Scrum联盟提供主张、社区参与、研究、人际网络和关注组织变革，这些变革正在改变着全球的工作方式。Scrum是一个非盈利组织，由全球超过50万认证者组成，驱使我们的不是商业，也不是什么财务盈亏；我们的动力正是来自于全球社区的成员，以及寻求实现真正工作与生活平衡的每个人。
 
 ## 关于优普丰敏捷学院
 
-UPerform－优普丰敏捷是中国地区首家国际Scrum Alliance联盟REP(注册合作伙伴)及Agile Alliance联盟企业会员，中国敏捷运动的核心推动团队。创立于2007年，并将Scrum创始人Ken Schwaber的扛鼎之作《Scrum敏捷项目管理》一书翻译引进中国。目前是华语地区拥有Scrum联盟认证体系导师级Scrum认证者CST/CTC最多的机构，也是目前亚洲地区唯一获得2017新版CSP成长路径及A-CSM认证的机构，团队翻译和撰写了10多本著作。2008年在上海参与召集了首次敏捷社区聚会，带头吹响了中国敏捷推广的集结号。十年来，得到国际多位敏捷大师的支持和眷顾，包括Ken Schwaber、Mike Cohn、Lyssa Adkins、Michael Spayd、Ken Rubin、Jurgen Appelo、Pete Deemer、Peter Borsella 、Vernon Stinebaker,、Chris Sims等，发展出大量原创敏捷内容，包括理论哲学、领导力培养、现场实践、工具方法等。
+[UPerform－优普丰敏捷学院](http://www.uperform.cn)是中国地区首家国际Scrum Alliance联盟REP(注册合作伙伴)及Agile Alliance联盟企业会员，中国敏捷运动的核心推动团队。创立于2007年，并将Scrum创始人Ken Schwaber的扛鼎之作《Scrum敏捷项目管理》一书翻译引进中国。目前是华语地区拥有Scrum联盟认证体系导师级Scrum认证者CST/CTC最多的机构，也是目前亚洲地区唯一获得2017新版CSP成长路径及A-CSM认证的机构，团队翻译和撰写了10多本著作。2008年在上海参与召集了首次敏捷社区聚会，带头吹响了中国敏捷推广的集结号。十年来，得到国际多位敏捷大师的支持和眷顾，包括Ken Schwaber、Mike Cohn、Lyssa Adkins、Michael Spayd、Ken Rubin、Jurgen Appelo、Pete Deemer、Peter Borsella 、Vernon Stinebaker,、Chris Sims等，发展出大量原创敏捷内容，包括理论哲学、领导力培养、现场实践、工具方法等。
 
 ## 关于福布斯观察
 
-Forbes Insights是福布斯传媒的战略研究和思想领导实践，福布斯传媒是一家全球媒体，品牌和技术公司，其综合平台每月为全球近9400万商业决策者提供服务。通过利用福布斯社区高级管理人员的专有数据库，福布斯洞察对各种主题进行研究，将品牌定位为思想领袖并推动利益相关方参与。研究结果通过各种数字，印刷和现场执行提供，并在福布斯的社交和媒体平台上进行扩展。
+[Forbes Insights](https://forbes.com/forbes-insights/)是福布斯传媒的战略研究和思想领导实践，福布斯传媒是一家全球媒体，品牌和技术公司，其综合平台每月为全球近9400万商业决策者提供服务。通过利用福布斯社区高级管理人员的专有数据库，福布斯洞察对各种主题进行研究，将品牌定位为思想领袖并推动利益相关方参与。研究结果通过各种数字，印刷和现场执行提供，并在福布斯的社交和媒体平台上进行扩展。
 
 EDITORIAL & RESEARCH
 Erika Maguire
